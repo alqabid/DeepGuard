@@ -1,0 +1,7 @@
+{
+  "name": "DeepGuard for SMEs",
+  "description": "An autonomous AI security agent for small businesses that detects social engineering, acts as a security consultant via chat, and actively generates decoy data to neutralize threats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
